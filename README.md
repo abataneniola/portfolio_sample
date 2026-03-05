@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **SQL, R,**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/codebean1474](https://www.https://github.com/abataneniola)
+- 👨‍💻 All of my projects are available at [https://github.com/abataneniola](https://www.https://github.com/abataneniola)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/codebean1474](https://www.linkedin.com/in/abataneniola)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/abataneniola](https://www.linkedin.com/in/abataneniola)
 
 - 💬 Ask me about **Python, EXCEL, PowerBI**
 
 - 📫 How to reach me **enny1474@gmailcom**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/codebean1474](https://www.linkedin.com/in/abataneniola)
+- 📄 Know about my experiences [https://www.linkedin.com/in/abataneniola](https://www.linkedin.com/in/abataneniola)
 
 - ⚡ Fun fact **I think I am funny**
 
