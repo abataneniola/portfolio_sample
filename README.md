@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CodeBean</h1>
+<h1 align="center">Hi 👋, I'm EniolaNimi</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codebean002" alt="codebean002" /></a> </p>
@@ -7,21 +7,21 @@
 
 - 🌱 I’m currently learning **SQL, R,**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/codebean1474](https://www.linkedin.com/in/codebean1474)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/codebean1474](https://www.https://github.com/abataneniola)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/codebean1474](https://www.linkedin.com/in/codebean1474)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/codebean1474](https://www.linkedin.com/in/abataneniola)
 
 - 💬 Ask me about **Python, EXCEL, PowerBI**
 
 - 📫 How to reach me **enny1474@gmailcom**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/codebean1474](https://www.linkedin.com/in/codebean1474)
+- 📄 Know about my experiences [https://www.linkedin.com/in/codebean1474](https://www.linkedin.com/in/abataneniola)
 
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/codebean1474" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/codebean1474" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abataneniola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abataneniola" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
